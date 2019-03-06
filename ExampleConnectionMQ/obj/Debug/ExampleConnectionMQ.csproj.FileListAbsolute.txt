@@ -1,0 +1,13 @@
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\ExampleConnectionMQ.exe.config
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\ExampleConnectionMQ.exe
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\ExampleConnectionMQ.pdb
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\Engine.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\IBM.XMS.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\System.Reactive.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\Engine.pdb
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\bin\Debug\System.Reactive.xml
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\obj\Debug\ExampleConnectionMQ.csprojAssemblyReference.cache
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\obj\Debug\ExampleConnectionMQ.csproj.CoreCompileInputs.cache
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\obj\Debug\ExampleConnectionMQ.csproj.CopyComplete
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\obj\Debug\ExampleConnectionMQ.exe
+c:\users\isalinas\source\repos\ExampleConnectionMQ\ExampleConnectionMQ\obj\Debug\ExampleConnectionMQ.pdb
