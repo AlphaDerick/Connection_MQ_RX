@@ -1,6 +1,6 @@
 # Connection simple to topic of websphere ibm using reactive extensions.
 
-# !!! Important 
+ !!! Important 
 
+add configuration of Websphere conection in  App.config
 
-# it will add the following configuration values to websphere into app.config.
