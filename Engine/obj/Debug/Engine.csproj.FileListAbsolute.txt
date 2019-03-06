@@ -1,0 +1,15 @@
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\Engine.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\Engine.pdb
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\netstandard.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\IBM.XMS.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Reactive.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Reactive.xml
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\obj\Debug\Engine.csproj.CopyComplete
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\obj\Debug\Engine.dll
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\obj\Debug\Engine.pdb
+c:\users\isalinas\source\repos\ExampleConnectionMQ\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
